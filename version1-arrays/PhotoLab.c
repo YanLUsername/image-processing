@@ -1,4 +1,4 @@
-/* car-game.py
+/* PhotoLab.c
 Assignment 3
 
 Date      Author      Notes
