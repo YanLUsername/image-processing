@@ -7,6 +7,6 @@ This version of the image processing program uses **Dynamic Memory Allocation** 
 - Text based menu
 
 ### Learning Highlights
-- Introduction to dynamic memory allocation in C
-- Used Valgrind to detect memory-related errors
+- Introduction to **dynamic memory allocation** in C
+- Used **Valgrind** to detect memory-related errors
 - Use of **makefiles** for automating compilation and managing multiple source files
