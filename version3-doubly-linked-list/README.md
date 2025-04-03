@@ -15,3 +15,5 @@ Version 3 will create and modify a movie rather than an image. The movie will be
 - Memory management through the use of `Malloc()` and **Valgrind**
 - Modular program structure with **header and source files**
 - Use of **makefiles** for automating compilation and managing multiple source files  
+
+Note: This is a simplified version of a project developed for EECS22 at the University of California, Irvine. Some files have been omitted. What you see here only highlights the most important elements.
