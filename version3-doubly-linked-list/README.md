@@ -12,6 +12,6 @@ Version 3 will create and modify a movie rather than an image. The movie will be
 
 ### Learning Highlights
 - Introduction to **doubly linked lists** in C
-- Memory management through the use of **Malloc()** and **Valgrind**
+- Memory management through the use of `Malloc()` and **Valgrind**
 - Modular program structure with **header and source files**
 - Use of **makefiles** for automating compilation and managing multiple source files  
