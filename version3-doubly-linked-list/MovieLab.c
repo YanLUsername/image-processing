@@ -1,4 +1,4 @@
-/* DIPs.c
+/* MovieLab.c
 Assignment 5
 
 Date      Author      Notes
