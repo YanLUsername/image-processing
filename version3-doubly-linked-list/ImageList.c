@@ -1,7 +1,10 @@
-/*********************************************************************/
-/* Homework Assignment 5, for EECS 22, Winter 2024                   */
-/* ImageList.c: source file for image list manipulations             */
-/*********************************************************************/
+/* ImageList.c
+Assignment 5
+
+Date      Author      Notes
+3/23/25   Yan Li      Initial version
+4/4/25    Yan Li      Initial upload to GitHub
+*/
 
 #include <stdlib.h>
 #include <assert.h>
