@@ -2,7 +2,7 @@
 Assignment 4
 
 Date      Author      Notes
-2/17/25   Yan Li      Initial version
+3/4/25    Yan Li      Initial version
 4/4/25    Yan Li      Initial upload to GitHub
 */
 
